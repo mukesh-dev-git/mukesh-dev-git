@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=Mukesh%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Researcher%20at%20heart%20%C2%B7%20builder%20across%20domains&descAlignY=58&descSize=18" width="100%" alt="Mukesh Kumar banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=Mukeshkumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Researcher%20at%20heart%20%C2%B7%20builder%20across%20domains&descAlignY=58&descSize=18" width="100%" alt="Mukesh Kumar banner"/>
 
 <a href="#-domains-ive-been-exploring"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=720&lines=Embedded+firmware+today%2C+an+LLM-on-NPU+app+tomorrow;Crime-intelligence+platforms+%E2%86%92+child-safety+AI+%E2%86%92+ML+challenges;Next.js+%2B+Zoho+Catalyst+%2B+STM32%2FMSPM0+%2B+LoRa;New+domain%2C+same+habit%3A+go+deep%2C+ship%2C+move+on" alt="Typing summary"/></a>
 
