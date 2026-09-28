@@ -62,12 +62,7 @@ I'm a researcher-minded builder — I'd rather understand a new domain deeply en
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mukesh-dev-git&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-dev-git&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-dev-git&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukesh-dev-git&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="95%"/>
 
 </div>
 
@@ -75,6 +70,7 @@ I'm a researcher-minded builder — I'd rather understand a new domain deeply en
 
 [![Email](https://img.shields.io/badge/Email-mukeshkumar.cse24%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mukeshkumar.cse24@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mukeshkumar--m-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukeshkumar-m-582a07326)
+[![Discord](https://img.shields.io/badge/Discord-Message%20me-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1289922955199123537)
 
 <div align="center">
 
