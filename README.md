@@ -17,6 +17,7 @@
 [![Zoho Catalyst](https://img.shields.io/badge/Zoho%20Catalyst-C8202F?logo=zoho&logoColor=white)](https://catalyst.zoho.com)
 [![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com)
 
 </div>
 
@@ -55,7 +56,7 @@ I'm a researcher-minded builder — I'd rather understand a new domain deeply en
 
 ## <img src="https://api.iconify.design/lucide/wrench.svg?color=%236D28D9" width="26" align="top" alt=""/> Currently working with
 
-`Next.js` · `TypeScript` · `React` · `Supabase` · `Zoho Catalyst` · `STM32 / MSPM0` · `Python` · `Kotlin` · `AWS`
+`Next.js` · `TypeScript` · `React` · `Supabase` · `Zoho Catalyst` · `STM32 / MSPM0` · `Python` · `Kotlin` · `AWS` · `GCP`
 
 ## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%236D28D9" width="26" align="top" alt=""/> GitHub stats
 
